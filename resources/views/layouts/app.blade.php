@@ -35,7 +35,8 @@
 
             <!-- Page Content -->
             <main>
-                {{ $slot }}
+            <livewire:posts/>
+                <!-- {{ $slot }} -->
             </main>
         </div>
 
